@@ -1,0 +1,165 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 72px;
+  color: white;
+  margin: 0px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 64px;
+  color: #007765;
+}
+
+p {
+  font-size: 32px;
+  width: 1109px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header {
+  position: sticky;
+  top: 0;
+  background-color: #007765;
+  font-size: 24px;
+  color: white;
+}
+
+.header__width {
+  width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+.header__links {
+  float:right;
+  margin-top: 35px;
+}
+
+
+.header a {
+  color: white;
+  text-decoration: none;
+}
+
+.header img {
+  height: 46px;
+  width: 184px;
+  padding: 20px 0;
+}
+
+.pipernet_is_here {
+  background-image: url("imgs/pipernetishere.png");
+  background-size: cover;
+  background-position: center center;
+}
+
+.pipernet_is_here h1 {
+  padding: 160px 0;
+}
+
+.the_problem_div {
+  background-color: #eeeeee;
+  padding-top: 48px;
+  padding-bottom: 92px;
+}
+
+.the_problem_div h2 {
+  margin: 0;
+}
+
+.supercomputer {
+  background-image: url("imgs/supercomputer.png");
+  background-size: cover;
+  background-position: center center;
+}
+
+.supercomputer p {
+  padding: 128px 159px;
+  color: white;
+  text-align: center;
+  width: 893px;
+}
+
+.supercomputer p {
+  font-size: 48px;
+  margin: 0 auto 0;
+}
+
+.pied_piper_coin_div {
+  background-color: #FFFFFF;
+}
+
+.ppc_logo {
+  float: left;
+  width: 115px;
+  height: 115px;
+  padding-right: 48px;
+}
+
+.the_team_div {
+  background-color: #EEEEEE;
+}
+
+
+.footer {
+  background-color: #333333;
+}
+
+.footer p {
+  font-size: 18px;
+  text-align: center;
+  color: #FFFFFF;
+  padding: 48px 0 64px;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 510px;
+}
+
+
+.the_team_div {
+  padding-top: 48px;
+  padding-bottom: 94px;
+}
+
+.the_team_div h2 {
+  margin: 0;
+}
+
+.the_team_div h4 {
+  font-size: 24px;
+  color: #007765;
+  font-weight: bold;
+  margin: 12px 0 0;
+}
+
+.the_team_div h5 {
+  font-size: 18px;
+  color: #000000;
+  font-style: italic;
+  font-weight: lighter;
+  margin: 0;
+}
+
+.the_team_div table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 32px;
+}
+
+.the_team_div td {
+  text-align: center;
+  height: 283px;
+  width: 350px;
+
+}
+
+.the_team_div img {
+  width: 168px;
+  height: 168px;
+}
